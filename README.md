@@ -1,5 +1,5 @@
 
-**Embedded Software Design | Developer**  
+**Embedded Software Designer | Developer**  
 DKU (2018.03 ~ 2025.02)  
 Bachelor’s Degree in Computer Engineering
 
