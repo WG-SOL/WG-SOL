@@ -1,7 +1,6 @@
-# WON GYU YOU
 
 **Automotive Embedded Software Design | Developer**  
-DanKook University (2018.03 ~ 2025.02)  
+DKU (2018.03 ~ 2025.02)  
 Bachelor’s Degree in Computer Engineering
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ce_won)](https://solved.ac/ce_won/)
