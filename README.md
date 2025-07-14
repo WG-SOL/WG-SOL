@@ -1,5 +1,5 @@
 
-**Automotive Embedded Software Design | Developer**  
+**Embedded Software Design | Developer**  
 DKU (2018.03 ~ 2025.02)  
 Bachelor’s Degree in Computer Engineering
 
@@ -18,7 +18,7 @@ Bachelor’s Degree in Computer Engineering
 ![Embedded](https://img.shields.io/badge/Embedded-%231572B6.svg?style=for-the-badge&logo=platformdotio&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Infineon](https://img.shields.io/badge/Infineon-A8B400.svg?style=for-the-badge&logo=infineon&logoColor=white)
-![AURIX](https://img.shields.io/badge/AURIX-000000.svg?style=for-the-badge&logo=infineon&logoColor=white)
+![AURIX Development Studio](https://img.shields.io/badge/AURIX-000000.svg?style=for-the-badge&logo=infineon&logoColor=white)
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
