@@ -1,5 +1,3 @@
-
-**Embedded Software Designer | Developer**  
 Bachelor’s Degree in Computer Engineering
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ce_won)](https://solved.ac/ce_won/)
