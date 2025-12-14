@@ -10,9 +10,10 @@ Bachelor’s Degree in Computer Engineering
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Embedded System
-![Embedded](https://img.shields.io/badge/Embedded-%231572B6.svg?style=for-the-badge&logo=platformdotio&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Infineon](https://img.shields.io/badge/Infineon-A8B400.svg?style=for-the-badge&logo=infineon&logoColor=white)
 
