@@ -30,11 +30,3 @@ Bachelor’s Degree in Computer Engineering
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
----
-
-## 📫 Contacts
-
-[![Velog Badge](http://img.shields.io/badge/-Velog-black?style=flat-square&logo=velog&link=https://velog.io/@cswg/posts)](https://velog.io/@cswg/posts)
-
----
